@@ -1,0 +1,291 @@
+Id,Item,Calories,Total Fat,Carbohydrates (G),Protein
+1,Chick-fil-A® Chicken Biscuit,460,23,45,19
+2,Chick-fil-A Chick-n-Minis™,360,13,41,19
+3,Egg White Grill,290,8,30,26
+4,Hash Brown Scramble Burrito,700,40,51,34
+5,Hash Brown Scramble Bowl,470,30,19,29
+6,"Bacon, Egg & Cheese Biscuit",420,23,38,15
+7,"Sausage, Egg & Cheese Biscuit",610,42,38,22
+8,"Bacon, Egg & Cheese Muffin",310,14,29,16
+9,"Sausage, Egg & Cheese Muffin",500,33,30,23
+10,Buttered Biscuit,290,15,37,4
+11,English Muffin,140,2,29,5
+12,Hash Browns,270,18,23,3
+13,Greek Yogurt Parfait,270,9,36,13
+14,Fruit Cup,60,0,15,1
+15,4 Chick-fil-A Chick-n-Minis™,360,13,41,19
+16,10 ct Chick-fil-A Chick-n-Minis™,870,35,92,48
+17,10 ct Heart-Shaped Tray,870,35,92,48
+18,Hash Brown Scramble Burrito w/ Nuggets,700,40,51,34
+19,Hash Brown Scramble Burrito w/ Sausage,720,47,46,28
+20,Hash Brown Scramble Burrito w/ Grilled Filet,650,36,46,35
+21,Hash Brown Scramble Burrito w/ Nuggets - no hash browns,550,30,38,33
+22,Hash Brown Scramble Burrito w/ Sausage - no hash browns,440,38,1,26
+23,Hash Brown Scramble Burrito w/ Grilled Filet - no hash brown,500,25,34,34
+24,Hash Brown Scramble Bowl w/ Nuggets,470,30,19,29
+25,Hash Brown Scramble Bowl w/ Sausage,480,37,15,23
+26,Hash Brown Scramble Bowl w/ Grilled Filet,410,26,15,30
+27,Hash Brown Scramble Bowl w/ Nuggets - no hash browns,320,20,7,28
+28,Hash Brown Scramble Bowl w/ Sausage - no hash browns,320,26,1,21
+29,Hash Brown Scramble Bowl w/ Grilled Filet - no hash browns,260,16,1,28
+30,Greek Yogurt Parfait w/ Cookie Crumbs,240,8,33,12
+31,Greek Yogurt Parfait w/ Granola,270,9,36,13
+32,Small Fruit Cup,50,0,13,1
+33,Medium Fruit Cup,60,0,15,1
+34,Chick-fil-A® Chicken Sandwich,440,17,41,29
+35,Chick-fil-A® Deluxe Sandwich,500,22,44,32
+36,Spicy Chicken Sandwich,460,19,45,28
+37,Spicy Deluxe Sandwich,550,25,47,33
+38,Grilled Chicken Sandwich,380,11,44,28
+39,Chick-fil-A® Grilled Chicken Club Sandwich,520,22,44,37
+40,Chick-fil-A® Nuggets,250,11,11,27
+41,Grilled Nuggets,130,3,1,25
+42,Chick-fil-A Chick-n-Strips®,310,14,16,29
+43,Chick-fil-A® Cool Wrap,660,45,32,43
+44,Chick-fil-A® Deluxe Sandwich w/ American,500,22,44,32
+45,Chick-fil-A® Deluxe Sandwich w/ Colby Jack,530,24,44,35
+46,Chick-fil-A® Deluxe Sandwich w/ Pepper Jack,520,24,44,34
+47,Chick-fil-A® Deluxe Sandwich w/ No Cheese,450,17,43,30
+48,Spicy Deluxe Sandwich w/ Pepper Jack,550,25,47,33
+49,Spicy Deluxe Sandwich w/ American,520,23,47,31
+50,Spicy Deluxe Sandwich w/ Colby Jack,550,25,47,34
+51,Spicy Deluxe Sandwich w/ No Cheese,470,19,47,29
+52,Grilled Chicken Club w/ Colby Jack,520,22,44,37
+53,Grilled Chicken Club w/ American,490,19,45,35
+54,Grilled Chicken Club w/ Pepper Jack,510,21,44,37
+55,Grilled Chicken Club w/ No Cheese,430,15,44,32
+56,5 ct Chick-fil-A® Nuggets,160,7,7,17
+57,8 ct Chick-fil-A® Nuggets,250,11,11,27
+58,12 ct Chick-fil-A® Nuggets,380,17,16,40
+59,30 ct Chick-fil-A® Nuggets,950,43,41,100
+60,30 ct Heart-Shaped Tray,950,43,41,100
+61,5 ct Grilled Nuggets,80,2,1,16
+62,8 ct Grilled Nuggets,130,3,1,25
+63,12 ct Grilled Nuggets,200,4.5,2,38
+64,2 ct Chick-fil-A Chick-n-Strips®,200,9,11,19
+65,3 ct Chick-fil-A Chick-n-Strips®,310,14,16,29
+66,4 ct Chick-fil-A Chick-n-Strips®,410,19,22,39
+67,Cobb Salad,850,61,34,42
+68,Spicy Southwest Salad,690,49,29,33
+69,Market Salad,540,31,41,28
+70,Cobb Salad w/ Nuggets,850,61,34,42
+71,Cobb Salad w/ Spicy Grilled Filet (Cold),710,51,25,36
+72,Cobb Salad w/ Grilled Nuggets,730,52,24,41
+73,Cobb Salad w/ Chick-fil-A Chick-n-Strips®,910,63,40,45
+74,Cobb Salad w/ Grilled Filet (Cold),700,51,25,37
+75,Cobb Salad w/ Chick-fil-A® Filet,850,61,36,40
+76,Cobb Salad w/ Spicy Filet,870,62,40,39
+77,Cobb Salad w/ Grilled Filet (Warm),700,51,25,37
+78,Cobb Salad w/ No Chicken,600,49,23,16
+79,Spicy Southwest Salad w/ Spicy Grilled Filet (Cold),690,49,29,33
+80,Spicy Southwest Salad w/ Grilled Filet (Cold),690,49,29,35
+81,Spicy Southwest Salad w/ Nuggets,840,58,38,41
+82,Spicy Southwest Salad w/ Grilled Nuggets,720,50,29,39
+83,Spicy Southwest Salad w/ Chick-fil-A Chick-n-Strips®,890,61,44,43
+84,Spicy Southwest Salad w/ Chick-fil-A® Filet,840,59,40,38
+85,Spicy Southwest Salad w/ Spicy Filet,860,60,44,37
+86,Spicy Southwest Salad w/ Grilled Filet (Warm),690,49,29,35
+87,Spicy Southwest Salad w/ No Chicken,590,47,27,14
+88,Grilled Market Salad w/ Grilled Filet (Cold),540,31,41,28
+89,Grilled Market Salad w/ Spicy Grilled Filet (Cold),550,32,42,28
+90,Grilled Market Salad w/ Chick-fil-A Chick-n-Strips®,740,43,56,36
+91,Grilled Market Salad w/ Nuggets,690,41,51,34
+92,Grilled Market Salad w/ Grilled Nuggets,570,32,41,32
+93,Grilled Market Salad w/ Chick-fil-A® Filet,690,41,52,31
+94,Grilled Market Salad w/ Spicy Filet,710,42,56,30
+95,Grilled Market Salad w/ Grilled Filet (Warm),540,31,41,28
+96,Grilled Market Salad w/ No Chicken,440,29,40,7
+97,Chick-fil-A Waffle Potato Fries®,420,24,45,5
+98,Side Salad,470,42,16,7
+99,Mac & Cheese,450,29,28,20
+100,Chicken Noodle Soup,145,3.5,21,9
+101,Chicken Tortilla Soup,340,10,38,23
+102,Kale Crunch Side,120,9,8,3
+103,Waffle Potato Chips,220,13,25,3
+104,Buddy Fruits® Apple Sauce,45,0,12,0
+105,Small Chick-fil-A Waffle Potato Fries®,320,19,35,4
+106,Medium Chick-fil-A Waffle Potato Fries®,420,24,45,5
+107,Large Chick-fil-A Waffle Potato Fries®,600,35,65,7
+108,Small Mac & Cheese,270,17,17,12
+109,Medium Mac & Cheese,450,29,28,20
+110,Cup of Chicken Noodle Soup,145,3.5,21,9
+111,Bowl of Chicken Noodle Soup,255,5.5,34,16
+112,Cup of Chicken Tortilla Soup,340,10,38,23
+113,Bowl of Chicken Tortilla Soup,580,16,65,44
+114,Chick-fil-A® Nuggets Kid's Meal,160,7,7,17
+115,Chick-fil-A Chick-n-Strips® Kid's Meal,200,9,11,19
+116,Grilled Nuggets Kid's Meal,80,2,1,16
+117,5 Ct Nuggets Kid's Meal,160,7,7,17
+118,2 Ct Chick-n-Strips® Kid's Meal,200,9,11,19
+119,5 Ct Grilled Nuggets Kid's Meal,80,2,1,16
+120,Frosted Lemonade,330,6,65,6
+121,Frosted Coffee,250,6,43,6
+122,Chocolate Chunk Cookie,370,17,49,5
+123,Chocolate Fudge Brownie,380,21,48,4
+124,Cookies & Cream Milkshake,630,25,90,13
+125,Chocolate Milkshake,590,22,90,12
+126,Strawberry Milkshake,570,19,93,11
+127,Vanilla Milkshake,580,23,82,13
+128,Icedream® Cone,180,4,32,4
+129,Icedream® Cup,140,3.5,24,4
+130,Frosted Lemonade w/ Diet Lemonade,250,6,46,6
+131,6 pack Chocolate Chunk Cookie,370,17,49,5
+132,6 ct Heart-Shaped Tray,2220,104,294,28
+133,12 Halves Heart-Shaped Tray,2250,123,286,24
+134,Chick-fil-A® Icedream® Cone,180,4,32,4
+135,Chick-fil-A® Icedream® Cup,140,3.5,24,4
+136,Freshly-Brewed Iced Tea Sweetened,120,0,31,0
+137,Freshly-Brewed Iced Tea Unsweetened,0,0,0,0
+138,Chick-fil-A® Lemonade,220,0,58,0
+139,Chick-fil-A® Diet Lemonade,50,0,14,0
+140,"Sunjoy® (1/2 Sweet Tea, 1/2 Lemonade)",160,0,44,0
+141,"Sunjoy® (1/2 Sweet Tea, 1/2 Diet Lemonade)",90,0,25,0
+142,"Sunjoy® (1/2 Unsweet Tea, 1/2 Lemonade)",90,0,25,0
+143,"Sunjoy® (1/2 Unsweet Tea, 1/2 Diet Lemonade)",20,0,6,0
+144,Iced Coffee,150,2.5,30,5
+145,Coca-Cola®,140,0,39,0
+146,Dr Pepper®,180,0,48,0
+147,DASANI® Bottled Water,0,0,0,0
+148,Honest Kids® Apple Juice,35,0,9,0
+149,Simply Orange®,160,0,34,2
+150,1% Chocolate Milk,140,2,23,7
+151,1% Milk,90,2,10,7
+152,Coffee,0,0,0,0
+153,Gallon Beverages,2090,1.5,549,2
+154,5 lb Bag of Ice,0,0,0,0
+155,Small Freshly-Brewed Iced Tea Sweetened,70,0,19,0
+156,Medium Freshly-Brewed Iced Tea Sweetened,120,0,31,0
+157,Large Freshly-Brewed Iced Tea Sweetened,170,0,43,0
+158,Small Freshly-Brewed Iced Tea Unsweetened,0,0,0,0
+159,Medium Freshly-Brewed Iced Tea Unsweetened,0,0,0,0
+160,Large Freshly-Brewed Iced Tea Unsweetened,0,0,0,0
+161,Small Chick-fil-A® Lemonade,130,0,33,0
+162,Medium Chick-fil-A® Lemonade,220,0,58,0
+163,Large Chick-fil-A® Lemonade,300,0,78,0
+164,Small Chick-fil-A® Diet Lemonade,30,0,8,0
+165,Medium Chick-fil-A® Diet Lemonade,50,0,14,0
+166,Large Chick-fil-A® Diet Lemonade,80,0,21,0
+167,"Small Sunjoy® (1/2 Sweet Tea, 1/2 Lemonade)",120,0,33,0
+168,"Medium Sunjoy® (1/2 Sweet Tea, 1/2 Lemonade)",160,0,44,0
+169,"Large Sunjoy® (1/2 Sweet Tea, 1/2 Lemonade)",260,0,70,0
+170,"Small Sunjoy® (1/2 Sweet Tea, 1/2 Diet Lemonade)",70,0,19,0
+171,"Medium Sunjoy® (1/2 Sweet Tea, 1/2 Diet Lemonade)",90,0,25,0
+172,"Large Sunjoy® (1/2 Sweet Tea, 1/2 Diet Lemonade)",140,0,37,0
+173,"Small Sunjoy® (1/2 Unsweet Tea, 1/2 Lemonade)",60,0,17,0
+174,"Medium Sunjoy® (1/2 Unsweet Tea, 1/2 Lemonade)",90,0,25,0
+175,"Large Sunjoy® (1/2 Unsweet Tea, 1/2 Lemonade)",140,0,39,0
+176,"Small Sunjoy® (1/2 Unsweet Tea, 1/2 Diet Lemonade)",15,0,4,0
+177,"Medium Sunjoy® (1/2 Unsweet Tea, 1/2 Diet Lemonade)",20,0,6,0
+178,"Large Sunjoy® (1/2 Unsweet Tea, 1/2 Diet Lemonade)",35,0,9,0
+179,Iced Coffee - Vanilla,140,2.5,30,5
+180,Small Coca-Cola®,100,0,26,0
+181,Medium Coca-Cola®,140,0,39,0
+182,Large Coca-Cola®,220,0,62,0
+183,Small Dr Pepper®,140,0,36,0
+184,Medium Dr Pepper®,180,0,48,0
+185,Large Dr Pepper®,270,0,71,0
+186,Gallon Chick-fil-A® Lemonade,2090,1.5,549,2
+187,Gallon Chick-fil-A® Diet Lemonade,460,1.5,126,3
+188,"Gallon Chick-fil-A® Lemonade (1/2 Lemonade, 1/2 Diet Lemonade)",1390,0.5,389,1
+189,Gallon Freshly-Brewed Iced Tea Sweetened,1540,0,398,0
+190,Gallon Freshly-Brewed Iced Tea Unsweetened,0,0,0,0
+191,"Gallon Chick-fil-A® Iced Tea (1/2 Sweet Tea, 1/2 Unsweet Tea)",770,0,200,0
+192,"Gallon Sunjoy® (1/2 Sweet Tea, 1/2 Lemonade)",1820,0,491,0
+193,"Gallon Sunjoy® (1/2 Sweet Tea, 1/2 Diet Lemonade)",1010,1,265,1
+194,"Gallon Sunjoy® (1/2 Unsweet Tea, 1/2 Lemonade)",1040,0,291,0
+195,"Gallon Sunjoy® (1/2 Unsweet Tea, 1/2 Diet Lemonade)",240,1,65,1
+196,Grilled Chicken Bundle  (per sandwich),520,22,44,37
+197,Hot Chick-fil-A® Nugget Trays,30,1.5,1,3
+198,Chilled Chick-fil-A® Nugget Trays,30,1.5,1,3
+199,Hot Chick-n-Strips® Trays,110,5,6,10
+200,Chilled Chick-n-Strips® Trays,110,5,6,10
+201,Chilled Grilled Chicken Sub Sandwich Tray,220,6,24,18
+202,Spicy Chilled Grilled Chicken Sub Sandwich Tray,210,6,24,16
+203,Chick-fil-A® Cool Wrap Trays,480,39,18,22
+204,Fruit Tray,780,2.5,181,9
+205,Mac & Cheese Tray,4920,312,308,221
+206,Garden Salad Tray,350,19,27,20
+207,Kale Crunch Side Tray,570,37,56,11
+208,Chocolate Chunk Cookie Tray,370,17,49,5
+209,Chocolate Fudge Brownie Tray,190,10,24,2
+210,Chocolate Chunk Cookie and Chocolate Fudge Brownie Tray,560,28,73,7
+211,Small Hot Chick-fil-A® Nuggets Tray  (per nugget),30,1.5,1,3
+212,Medium Hot Chick-fil-A® Nuggets Tray  (per nugget),30,1.5,1,3
+213,Large Hot Chick-fil-A® Nuggets Tray  (per nugget),30,1.5,1,3
+214,Small Chilled Chick-fil-A® Nuggets Tray  (per nugget),30,1.5,1,3
+215,Medium Chilled Chick-fil-A® Nuggets Tray  (per nugget),30,1.5,1,3
+216,Large Chilled Chick-fil-A® Nuggets Tray  (per nugget),30,1.5,1,3
+217,Small Hot Chick-n-Strips® Tray  (per chick-n-strip),110,5,6,10
+218,Medium Hot Chick-n-Strips® Tray  (per chick-n-strip),110,5,6,10
+219,Large Hot Chick-n-Strips® Tray  (per chick-n-strip),110,5,6,10
+220,Small Chilled Chick-n-Strips® (Cooked & Chilled for Later) Tray  (per chick-n-strip),110,5,6,10
+221,Medium Chilled Chick-n-Strips® (Cooked & Chilled for Later) Tray  (per chick-n-strip),110,5,6,10
+222,Large Chilled Chick-n-Strips® (Cooked & Chilled for Later) Tray  (per chick-n-strip),110,5,6,10
+223,Small Chilled Grilled Chicken Sub Sandwich Tray  (per half sandwich),220,6,24,18
+224,Medium Chilled Grilled Chicken Sub Sandwich Tray  (per half sandwich),220,6,24,18
+225,Large Chilled Grilled Chicken Sub Sandwich Tray  (per half sandwich),220,6,24,18
+226,Small Spicy Chilled Grilled Chicken Sub Sandwich Tray  (per half sandwich),210,6,24,16
+227,Medium Spicy Chilled Grilled Chicken Sub Sandwich Tray  (per half sandwich),210,6,24,16
+228,Large Spicy Chilled Grilled Chicken Sub Sandwich Tray  (per half sandwich),210,6,24,16
+229,Small Chick-fil-A® Cool Wrap Tray  (per half wrap),480,39,18,22
+230,Medium Chick-fil-A® Cool Wrap Tray  (per half wrap),480,39,18,22
+231,Large Chick-fil-A® Cool Wrap Tray  (per half wrap),480,39,18,22
+232,Small Fruit Tray  (per tray),780,2.5,181,9
+233,Large Fruit Tray  (per tray),1580,5,366,18
+234,Small Mac & Cheese Tray  (per tray),4920,312,308,221
+235,Large Mac & Cheese Tray  (per tray),9850,624,616,442
+236,Small Garden Salad Tray  (per tray),350,19,27,20
+237,Large Garden Salad Tray  (per tray),690,37,54,41
+238,Small Kale Crunch Side Tray  (per tray),570,37,56,11
+239,Large Kale Crunch Side Tray  (per tray),1260,81,125,24
+240,Small Chocolate Chunk Cookie Tray  (per cookie),370,17,49,5
+241,Large Chocolate Chunk Cookie Tray  (per cookie),370,17,49,5
+242,Small Chocolate Fudge Brownie Tray  (per brownie half),190,10,24,2
+243,Large Chocolate Fudge Brownie Tray  (per brownie half),190,10,24,2
+244,Small Chocolate Chunk Cookie and Chocolate Fudge Brownie Tray  (per cookie/ per brownie half),560,28,73,7
+245,Large Chocolate Chunk Cookie and Chocolate Fudge Brownie Tray  (per cookie/ per brownie half),560,28,73,7
+246,Chilled Grilled Chicken Sub Sandwich,440,12,47,35
+247,Spicy Chilled Grilled Chicken Sub Sandwich,430,12,48,32
+248,Ice Scoop,0,0,0,0
+249,Ice Bucket,0,0,0,0
+250,Catering Coffee,0,0,0,0
+251,Regular 96 oz Coffee,0,0,0,0
+252,8oz Chick-fil-A® Sauce,1140,103,50,2
+253,8oz Polynesian Sauce,860,48,107,1
+254,8oz Garden Herb Ranch Sauce,1100,117,8,4
+255,8oz Honey Mustard Sauce,380,3,88,2
+256,8oz Barbeque Sauce,360,0,88,2
+257,Barbeque Sauce,45,0,11,0
+258,Chick-fil-A® Sauce,140,13,7,0
+259,Garden Herb Ranch Sauce,140,15,1,1
+260,Honey Mustard Sauce,50,0,12,0
+261,Polynesian Sauce,110,6,14,0
+262,Sweet and Spicy Sriracha Sauce,45,0,11,0
+263,Zesty Buffalo Sauce,25,2.5,1,0
+264,Honey Roasted BBQ Sauce,60,5,3,0
+265,Avocado Lime Ranch Dressing,310,32,3,1
+266,Creamy Salsa Dressing,290,31,2,1
+267,Fat Free Honey Mustard Dressing,90,0,23,0
+268,Garden Herb Ranch Dressing,280,29,2,1
+269,Light Balsamic Vinaigrette Dressing,80,4,10,0
+270,Light Italian Dressing,25,1,3,0
+271,Zesty Apple Cider Vinaigrette Dressing,230,19,16,0
+272,Grilled Breakfast Filet,60,1,0,13
+273,Bacon,50,3.5,0,4
+274,Chick-fil-A® Breakfast Filet,160,8,8,15
+275,Sausage,240,22,1,11
+276,Grilled Filet,110,2,1,21
+277,Spicy Filet,280,13,16,23
+278,Chick-fil-A® Filet,250,12,12,24
+279,Lettuce,5,0,1,0
+280,Pickles,0,0,0,0
+281,Tomato,5,0,1,0
+282,American Cheese,50,4.5,1,3
+283,Colby Jack Cheese,80,7,0,5
+284,Pepper Jack Cheese,80,6,0,4
+285,Chili Lime Pepitas,80,7,2,4
+286,Crispy Bell Peppers,80,6,6,1
+287,Harvest Nut Granola,70,2,10,1
+288,Seasoned Tortilla Strips,70,4,8,1
+289,Lemon Parmesan Panko,0,0,0,0
+290,Saltines,25,0.5,5,0

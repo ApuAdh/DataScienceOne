@@ -1,0 +1,97 @@
+id,Item,Calories,Total Fat,Carbohydrates (G),Protein
+1,"6"" B.L.T.",320,9,43,15
+2,Footlong B.L.T.,640,18,86,30
+3,"6"" BBQ Rib Sandwich",430,18,47,19
+4,Footlong BBQ Rib Sandwich,860,36,94,38
+5,"6"" Big Hot Pastrami",580,31,47,29
+6,Footlong Big Hot Pastrami,1160,62,94,58
+7,"6"" Big Philly Cheesesteak",500,17,51,38
+8,Footlong Big Philly Cheesesteak,1000,34,102,76
+9,Kids Mini Sub Black Forest Ham,180,3,30,10
+10,"6"" Black Forest Ham",290,5,46,18
+11,Footlong Black Forest Ham,580,10,92,36
+12,"6"" Carved Turkey",330,5,45,25
+13,Footlong Carved Turkey,660,10,90,50
+14,"6"" Carved Turkey & Bacon w/ Cheese",570,26,46,33
+15,Footlong Carved Turkey & Bacon w/ Cheese,1140,52,92,66
+16,"6"" Chicken & Bacon Ranch Melt",570,28,47,35
+17,Footlong Chicken & Bacon Ranch Melt,1140,56,94,70
+18,"6"" Chicken Pizziola Melt",460,16,49,32
+19,Footlong Chicken Pizziola Melt,920,32,98,64
+20,"6"" Cold Cut Combo",370,13,46,18
+21,Footlong Cold Cut Combo,740,26,92,36
+22,"6"" Corned Beef Reuben",470,15,45,39
+23,Footlong Corned Beef Reuben,940,30,90,78
+24,"6"" Italian B.M.T.",410,16,46,20
+25,Footlong Italian B.M.T.,820,32,92,40
+26,"6"" Italian Hero",550,29,47,26
+27,Footlong Italian Hero,1100,58,94,52
+28,"6"" Meatball Marinara",480,18,59,21
+29,Footlong Meatball Marinara,960,36,118,42
+30,"6"" Oven Roasted Chicken",320,5,47,23
+31,Footlong Oven Roasted Chicken,640,10,44,46
+32,Kids Mini Sub Roast Beef,200,3,30,14
+33,"6"" Roast Beef",320,5,45,24
+34,Footlong Roast Beef,640,10,90,48
+35,"6"" Rotisserie Style Chicken",350,6,44,29
+36,Footlong Rotisserie Style Chicken,700,12,88,58
+37,"6"" Spicy Italian",480,24,46,20
+38,Footlong Spicy Italian,960,48,92,40
+39,"6"" Steak and Cheese",380,10,48,26
+40,Footlong Steak and Cheese,760,20,96,52
+41,"6"" Subway Club",310,5,46,23
+42,Footlong Subway Club,620,10,92,46
+43,"6"" Subway Melt (includes cheese)",370,11,47,23
+44,Footlong Subway Melt (includes cheese),740,22,94,46
+45,"6"" Subway Seafood Sensation",420,19,51,13
+46,Footlong Subway Seafood Sensation,840,38,102,26
+47,"6"" Sweet Onion Chicken Teriyaki",380,5,59,26
+48,Footlong Sweet Onion Chicken Teriyaki,760,10,118,52
+49,"6"" Tuna",470,24,44,20
+50,Footlong Tuna,940,48,88,40
+51,"6"" Turkey & Bacon Avocado",390,13,49,22
+52,Footlong Turkey & Bacon Avocado,780,26,98,44
+53,Kids Mini Sub Turkey Breast,180,2,30,10
+54,"6"" Turkey Breast",280,4,46,18
+55,Footlong Turkey Breast,560,8,92,36
+56,"6"" Turkey Breast & Ham",280,4,46,18
+57,Footlong Turkey Breast & Ham,560,8,92,36
+58,"6"" Turkey Italiano Melt (with Provolone)",490,24,47,24
+59,Footlong Turkey Italiano Melt (with Provolone),980,48,94,48
+60,Kids Mini Sub Veggie Delite,150,2,29,6
+61,"6"" Veggie Delite",230,3,44,8
+62,Footlong Veggie Delite,460,6,88,16
+63,"6"" Veggie Patty",390,7,56,23
+64,Footlong Veggie Patty,780,14,112,46
+65,Autumn Carved Turkey Salad,300,9,26,25
+66,B.L.T. Salad,150,8,10,10
+67,Big Hot Pastrami Melt Salad,400,29,12,23
+68,Big Philly Cheesesteak Salad,330,16,17,32
+69,Black Forest Ham Salad,110,3,11,12
+70,Buffalo Chicken Salad (with Ranch dressing),360,26,13,20
+71,Carved Turkey & Bacon w/ Cheese Salad,280,12,11,28
+72,Carved Turkey Salad,150,4,8,19
+73,Chicken & Bacon Ranch Melt Salad (includes Ranch dressing),510,38,14,30
+74,Cold Cut Combo Salad,180,11,12,12
+75,Double Chicken Salad,220,5,10,36
+76,Italian B.M.T.® Salad,230,15,12,14
+77,Italian Hero Salad,230,15,13,14
+78,Meatball Marinara Salad,310,17,25,16
+79,Oven Roasted Chicken Salad,140,3,10,19
+80,Roast Beef Salad,140,4,10,18
+81,Spicy Italian Salad,310,23,11,15
+82,Steak & Cheese Salad,210,8,14,20
+83,Subway Club Salad,140,4,11,17
+84,Subway Melt® Salad,200,10,13,18
+85,Sweet Onion Chicken Teriyaki Salad,200,3,24,20
+86,Tuna Salad,310,24,10,15
+87,Turkey Breast & Ham Salad,110,3,11,12
+88,Turkey Breast Salad,110,2,11,12
+89,Veggie Delite Salad,50,1,9,3
+90,Chipotle Southwest Steak & Cheese Wrap,760,37,65,43
+91,Rotisserie-Style Chicken Caesar Wrap,730,34,53,55
+92,"Turkey, Bacon & Guacamole Wrap",810,42,62,43
+93,Cheese & Veggies Pizza,740,25,100,36
+94,Cheese Pizza,680,22,96,32
+95,Pepperoni Pizza,790,32,96,38
+96,Sausage Pizza,820,34,97,39
