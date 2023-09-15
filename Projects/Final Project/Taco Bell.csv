@@ -1,117 +1,117 @@
-id,Item,Calories,Total Fat,Carbohydrates (G),Protein
-1,Sausage Pizza,820,34,97,39
-2,1/2 lb.* Cheesy Potato Burrito,540,26,59,19
-3,1/2 lb.* Combo Burrito,460,18,53,21
-4,7-Layer Burrito,510,19,68,16
-5,Bean Burrito,370,11,56,13
-6,Beefy 5-Layer Burrito,550,22,68,19
-7,Beefy Fritos® Burrito,440,18,55,13
-8,Black Bean Burrito,410,12,62,14
-9,Burrito Supreme® – Beef,420,16,53,16
-10,Burrito Supreme® - Chicken,390,12,52,19
-11,Burrito Supreme® - Steak,390,13,52,17
-12,Cantina Power Burrito - Chicken,760,27,96,32
-13,Cantina Power Burrito - Steak,780,28,98,33
-14,Cantina Power Burrito - Veggie,740,26,107,20
-15,Cheesy Bean and Rice Burrito,420,17,55,11
-16,Chili Cheese Burrito,380,17,41,16
-17,Chicken Crunchy Cheesy Core Burrito,610,24,74,25
-18,Steak Crunchy Cheesy Core Burrito,610,24,75,25
-19,Beef Crunchy Cheesy Core Burrito,630,26,76,22
-20,Loaded Taco Burrito,550,29,52,20
-21,Chicken Quesarito,620,30,64,24
-22,Steak Quesarito,630,31,64,25
-23,Beef Quesarito,650,34,65,22
-24,Shredded Chicken Burrito,400,18,45,16
-25,Smothered Burrito - Beef,710,35,70,28
-26,Smothered Burrito - Shredded Chicken,650,28,67,34
-27,Smothered Burrito - Steak,670,29,68,35
-28,Chicken Spicy Cheesy Core Burrito,540,20,66,24
-29,Steak Spicy Cheesy Core Burrito,550,21,66,24
-30,Beef Spicy Cheesy Core Burrito,570,23,68,22
-31,Triple Melt Burrito,410,16,50,15
-32,XXL Grilled Stuft Burrito - Beef,880,42,94,31
-33,XXL Grilled Stuft Burrito - Chicken,830,35,91,37
-34,XXL Grilled Stuft Burrito - Steak,820,36,91,33
-35,Chicken Soft Taco,170,6,18,12
-36,Cool Ranch® Doritos® Double Decker® Taco,320,14,36,13
-37,Cool Ranch® Doritos® Locos Taco,160,10,13,8
-38,Cool Ranch® Doritos® Locos Taco Supreme,200,12,15,9
-39,Crunchy Taco,170,10,12,8
-40,Crunchy Taco Supreme®,200,12,15,9
-41,Double Decker® Taco,320,14,37,13
-42,DOUBLE DECKER® Taco Supreme®,350,16,40,14
-43,Spicy Sweet Double Stacked Taco,340,18,32,12
-44,Cool Ranch Habanero Double Stacked Taco,350,20,30,13
-45,Nacho Crunch Double Stacked Taco,380,19,39,13
-46,Fiery Doritos® Double Decker® Taco,320,13,36,14
-47,Fiery Doritos® Locos Taco,170,10,12,8
-48,Fiery Doritos® Locos Taco Supreme,200,12,15,9
-49,Grilled Steak Soft Taco,250,14,19,11
-50,Nacho Cheese Doritos® Double Decker® Taco,320,13,36,14
-51,Nacho Cheese Doritos® Locos Tacos,170,9,13,8
-52,Nacho Cheese Doritos® Locos Tacos Supreme,200,11,15,9
-53,Soft Taco Supreme® – Beef,230,11,22,10
-54,Soft Taco-Beef,200,9,19,10
-55,Spicy Potato Soft Taco,250,13,28,6
-56,Chalupa Supreme® - Chicken,340,18,29,16
-57,Chalupa Supreme® - Steak,340,18,29,14
-58,Chalupa Supreme®–Beef,370,21,31,13
-59,Double Chalupa,600,35,50,21
-60,Wild Naked Chicken Chalupa,420,28,23,19
-61,Mild Naked Chicken Chalupa,440,30,22,20
-62,Spicy Double Chalupa,600,35,52,21
-63,Fresco Bean Burrito,350,9,57,11
-64,Fresco Burrito Supreme® – Chicken,340,8,50,17
-65,Fresco Burrito Supreme® – Steak,340,9,50,15
-66,Fresco Chicken Soft Taco,150,4,18,11
-67,Fresco Crunchy Taco,140,8,13,6
-68,Fresco Grilled Steak Soft Taco,150,4,19,9
-69,Fresco Soft Taco,170,7,20,8
-70,Cheesy Gordita Crunch,490,29,39,20
-71,Doritos® Cheesy Gordita Crunch - Cool Ranch,490,28,40,20
-72,Doritos® Cheesy Gordita Crunch - Fiery,490,28,40,20
-73,Doritos® Cheesy Gordita Crunch - Nacho Cheese,490,28,40,20
-74,Double Cheesy Gordita Crunch,570,32,44,25
-75,Gordita Supreme® – Beef,300,14,31,13
-76,Gordita Supreme® - Chicken,270,10,29,16
-77,Gordita Supreme® - Steak,270,11,29,14
-78,Nacho Fries Bellgrande,710,41,73,13
-79,Nachos BellGrande®,760,39,82,18
-80,Nachos Supreme,430,23,44,12
-81,Triple Layer Nachos,320,15,41,7
-82,Triple Melt Nachos,260,16,19,10
-83,Beefy Cheddar Crunchwrap Slider,410,19,46,14
-84,Beefy Mini Quesadilla,210,12,17,9
-85,Beefy Nacho Griller,420,19,49,12
-86,BLT Crunchwrap Slider,430,23,43,12
-87,Cantina Power Bowl - Chicken,560,22,64,26
-88,Cantina Power Bowl - Steak,580,23,66,27
-89,Cantina Power Bowl - Veggie,540,21,75,14
-90,Cheese Quesadilla,480,27,40,19
-91,Cheese Roll-Up,190,9,18,9
-92,Chicken Quesadilla,520,28,41,27
-93,Chickstar,620,37,53,17
-94,Chili Cheese Burrito,380,17,41,16
-95,Chipotle Crispy Chicken Griller,290,18,22,9
-96,Crispy Chicken Quesadilla,650,37,51,26
-97,Crunchwrap Supreme®,540,21,71,16
-98,Double Tostada,270,11,32,12
-99,Express Taco Salad w/ Chips,580,29,59,23
-100,Loaded Potato Griller,470,22,55,13
-101,Mexican Pizza,540,31,47,20
-102,MexiMelt®,270,14,21,14
-103,Steak Quesalupa,440,23,36,22
-104,Chicken Quesalupa,440,23,37,22
-105,Beef Quesalupa,460,26,38,19
-106,Shredded Chicken Mini Quesadilla,180,8,15,12
-107,Spicy Chicken Crunchwrap Slider,400,20,42,15
-108,Spicy Tostada,200,10,22,7
-109,Stacker,390,18,39,18
-110,Steak Quesadilla,520,28,41,25
-111,Original Triple Double Crunchwrap,700,30,85,23
-112,Spicy Triple Double Crunchwrap,780,38,87,23
-113,Express Taco Salad w/ Chips,580,29,59,23
-114,Fiesta Taco Salad-Beef,780,42,74,26
-115,Fiesta Taco Salad-Chicken,720,35,70,32
-116,Fiesta Taco Salad-Steak,720,36,70,28
+Item,Calories,Total Fat,Carbohydrates (G),Protein,Establishment
+Sausage Pizza,820,34,97,39,Taco_Bell
+1/2 lb.* Cheesy Potato Burrito,540,26,59,19,Taco_Bell
+1/2 lb.* Combo Burrito,460,18,53,21,Taco_Bell
+7-Layer Burrito,510,19,68,16,Taco_Bell
+Bean Burrito,370,11,56,13,Taco_Bell
+Beefy 5-Layer Burrito,550,22,68,19,Taco_Bell
+Beefy Fritos® Burrito,440,18,55,13,Taco_Bell
+Black Bean Burrito,410,12,62,14,Taco_Bell
+Burrito Supreme® – Beef,420,16,53,16,Taco_Bell
+Burrito Supreme® - Chicken,390,12,52,19,Taco_Bell
+Burrito Supreme® - Steak,390,13,52,17,Taco_Bell
+Cantina Power Burrito - Chicken,760,27,96,32,Taco_Bell
+Cantina Power Burrito - Steak,780,28,98,33,Taco_Bell
+Cantina Power Burrito - Veggie,740,26,107,20,Taco_Bell
+Cheesy Bean and Rice Burrito,420,17,55,11,Taco_Bell
+Chili Cheese Burrito,380,17,41,16,Taco_Bell
+Chicken Crunchy Cheesy Core Burrito,610,24,74,25,Taco_Bell
+Steak Crunchy Cheesy Core Burrito,610,24,75,25,Taco_Bell
+Beef Crunchy Cheesy Core Burrito,630,26,76,22,Taco_Bell
+Loaded Taco Burrito,550,29,52,20,Taco_Bell
+Chicken Quesarito,620,30,64,24,Taco_Bell
+Steak Quesarito,630,31,64,25,Taco_Bell
+Beef Quesarito,650,34,65,22,Taco_Bell
+Shredded Chicken Burrito,400,18,45,16,Taco_Bell
+Smothered Burrito - Beef,710,35,70,28,Taco_Bell
+Smothered Burrito - Shredded Chicken,650,28,67,34,Taco_Bell
+Smothered Burrito - Steak,670,29,68,35,Taco_Bell
+Chicken Spicy Cheesy Core Burrito,540,20,66,24,Taco_Bell
+Steak Spicy Cheesy Core Burrito,550,21,66,24,Taco_Bell
+Beef Spicy Cheesy Core Burrito,570,23,68,22,Taco_Bell
+Triple Melt Burrito,410,16,50,15,Taco_Bell
+XXL Grilled Stuft Burrito - Beef,880,42,94,31,Taco_Bell
+XXL Grilled Stuft Burrito - Chicken,830,35,91,37,Taco_Bell
+XXL Grilled Stuft Burrito - Steak,820,36,91,33,Taco_Bell
+Chicken Soft Taco,170,6,18,12,Taco_Bell
+Cool Ranch® Doritos® Double Decker® Taco,320,14,36,13,Taco_Bell
+Cool Ranch® Doritos® Locos Taco,160,10,13,8,Taco_Bell
+Cool Ranch® Doritos® Locos Taco Supreme,200,12,15,9,Taco_Bell
+Crunchy Taco,170,10,12,8,Taco_Bell
+Crunchy Taco Supreme®,200,12,15,9,Taco_Bell
+Double Decker® Taco,320,14,37,13,Taco_Bell
+DOUBLE DECKER® Taco Supreme®,350,16,40,14,Taco_Bell
+Spicy Sweet Double Stacked Taco,340,18,32,12,Taco_Bell
+Cool Ranch Habanero Double Stacked Taco,350,20,30,13,Taco_Bell
+Nacho Crunch Double Stacked Taco,380,19,39,13,Taco_Bell
+Fiery Doritos® Double Decker® Taco,320,13,36,14,Taco_Bell
+Fiery Doritos® Locos Taco,170,10,12,8,Taco_Bell
+Fiery Doritos® Locos Taco Supreme,200,12,15,9,Taco_Bell
+Grilled Steak Soft Taco,250,14,19,11,Taco_Bell
+Nacho Cheese Doritos® Double Decker® Taco,320,13,36,14,Taco_Bell
+Nacho Cheese Doritos® Locos Tacos,170,9,13,8,Taco_Bell
+Nacho Cheese Doritos® Locos Tacos Supreme,200,11,15,9,Taco_Bell
+Soft Taco Supreme® – Beef,230,11,22,10,Taco_Bell
+Soft Taco-Beef,200,9,19,10,Taco_Bell
+Spicy Potato Soft Taco,250,13,28,6,Taco_Bell
+Chalupa Supreme® - Chicken,340,18,29,16,Taco_Bell
+Chalupa Supreme® - Steak,340,18,29,14,Taco_Bell
+Chalupa Supreme®–Beef,370,21,31,13,Taco_Bell
+Double Chalupa,600,35,50,21,Taco_Bell
+Wild Naked Chicken Chalupa,420,28,23,19,Taco_Bell
+Mild Naked Chicken Chalupa,440,30,22,20,Taco_Bell
+Spicy Double Chalupa,600,35,52,21,Taco_Bell
+Fresco Bean Burrito,350,9,57,11,Taco_Bell
+Fresco Burrito Supreme® – Chicken,340,8,50,17,Taco_Bell
+Fresco Burrito Supreme® – Steak,340,9,50,15,Taco_Bell
+Fresco Chicken Soft Taco,150,4,18,11,Taco_Bell
+Fresco Crunchy Taco,140,8,13,6,Taco_Bell
+Fresco Grilled Steak Soft Taco,150,4,19,9,Taco_Bell
+Fresco Soft Taco,170,7,20,8,Taco_Bell
+Cheesy Gordita Crunch,490,29,39,20,Taco_Bell
+Doritos® Cheesy Gordita Crunch - Cool Ranch,490,28,40,20,Taco_Bell
+Doritos® Cheesy Gordita Crunch - Fiery,490,28,40,20,Taco_Bell
+Doritos® Cheesy Gordita Crunch - Nacho Cheese,490,28,40,20,Taco_Bell
+Double Cheesy Gordita Crunch,570,32,44,25,Taco_Bell
+Gordita Supreme® – Beef,300,14,31,13,Taco_Bell
+Gordita Supreme® - Chicken,270,10,29,16,Taco_Bell
+Gordita Supreme® - Steak,270,11,29,14,Taco_Bell
+Nacho Fries Bellgrande,710,41,73,13,Taco_Bell
+Nachos BellGrande®,760,39,82,18,Taco_Bell
+Nachos Supreme,430,23,44,12,Taco_Bell
+Triple Layer Nachos,320,15,41,7,Taco_Bell
+Triple Melt Nachos,260,16,19,10,Taco_Bell
+Beefy Cheddar Crunchwrap Slider,410,19,46,14,Taco_Bell
+Beefy Mini Quesadilla,210,12,17,9,Taco_Bell
+Beefy Nacho Griller,420,19,49,12,Taco_Bell
+BLT Crunchwrap Slider,430,23,43,12,Taco_Bell
+Cantina Power Bowl - Chicken,560,22,64,26,Taco_Bell
+Cantina Power Bowl - Steak,580,23,66,27,Taco_Bell
+Cantina Power Bowl - Veggie,540,21,75,14,Taco_Bell
+Cheese Quesadilla,480,27,40,19,Taco_Bell
+Cheese Roll-Up,190,9,18,9,Taco_Bell
+Chicken Quesadilla,520,28,41,27,Taco_Bell
+Chickstar,620,37,53,17,Taco_Bell
+Chili Cheese Burrito,380,17,41,16,Taco_Bell
+Chipotle Crispy Chicken Griller,290,18,22,9,Taco_Bell
+Crispy Chicken Quesadilla,650,37,51,26,Taco_Bell
+Crunchwrap Supreme®,540,21,71,16,Taco_Bell
+Double Tostada,270,11,32,12,Taco_Bell
+Express Taco Salad w/ Chips,580,29,59,23,Taco_Bell
+Loaded Potato Griller,470,22,55,13,Taco_Bell
+Mexican Pizza,540,31,47,20,Taco_Bell
+MexiMelt®,270,14,21,14,Taco_Bell
+Steak Quesalupa,440,23,36,22,Taco_Bell
+Chicken Quesalupa,440,23,37,22,Taco_Bell
+Beef Quesalupa,460,26,38,19,Taco_Bell
+Shredded Chicken Mini Quesadilla,180,8,15,12,Taco_Bell
+Spicy Chicken Crunchwrap Slider,400,20,42,15,Taco_Bell
+Spicy Tostada,200,10,22,7,Taco_Bell
+Stacker,390,18,39,18,Taco_Bell
+Steak Quesadilla,520,28,41,25,Taco_Bell
+Original Triple Double Crunchwrap,700,30,85,23,Taco_Bell
+Spicy Triple Double Crunchwrap,780,38,87,23,Taco_Bell
+Express Taco Salad w/ Chips,580,29,59,23,Taco_Bell
+Fiesta Taco Salad-Beef,780,42,74,26,Taco_Bell
+Fiesta Taco Salad-Chicken,720,35,70,32,Taco_Bell
+Fiesta Taco Salad-Steak,720,36,70,28,Taco_Bell
