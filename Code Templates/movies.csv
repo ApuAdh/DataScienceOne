@@ -1,1 +1,115 @@
 Country,Movie,Rating,Genre
+United Arab Emirates,Samsara,8.1,Documentary
+Albania,Dangerous,6.2,"Action, Thriller"
+Netherlands Antilles,Ex Drummer,6.8,"Comedy, Crime, Drama, Thriller"
+Angola,Samsara,8.1,Documentary
+Argentina,Baraka,8.2,Documentary
+American Samoa,WHAT DID JACK DO?,6.4,"Comedy, Crime, Mystery"
+Austria,The Dawn Wall,8,"Documentary, Adventure"
+Australia,Taylor Swift: The 1989 World Tour - Live,8.6,"Music, Documentary"
+Aruba,Derailed,5,"Action, Thriller"
+Bosnia and Herzegovina,"Quo Vadis, Aida?",7.6,"War, Drama, History"
+Bangladesh,The Music Room,7.5,"Drama, Music"
+Belgium,Ennio,8.3,"Documentary, Music"
+Bulgaria,The Wild Pear Tree,7.5,Drama
+Bolivia,Samsara,7.4,"Adventure, Drama, Romance"
+Brazil,City of God,8.4,"Drama, Crime"
+Bahamas,Casino Royale,7.5,"Adventure, Action, Thriller"
+Bhutan,Lunana: A Yak in the Classroom,7.4,Drama
+Belarus,Persian Lessons,7.7,"War, Drama"
+Canada,Mommy,8.2,Drama
+Switzerland,Satantango,8.2,Drama
+Chile,The Mole Agent,7.9,Documentary
+China,The Legend of Hei,8.4,"Animation, Fantasy, Action"
+Colombia,The Rose Seller,7.7,"Drama, Crime"
+Serbia and Montenegro,Life Is a Miracle,7.3,"Romance, Drama, Comedy"
+Cuba,I Am Cuba,7.9,Drama
+Czech Republic,Casino Royale,7.5,"Adventure, Action, Thriller"
+Germany,Ennio,8.3,"Documentary, Music"
+Denmark,The Hunt,8.1,Drama
+Dominica,In the Arms of an Assassin,8,"Romance, Thriller"
+Algeria,Z,7.9,"Thriller, Crime, Drama"
+Ecuador,Dedicated to my ex,8.3,"Drama, Comedy"
+Estonia,Tangerines,7.7,"Drama, War"
+Egypt,Baraka,8.2,Documentary
+Eritrea,The Gentlemen,7.7,"Comedy, Crime"
+Spain,Franco Escamilla: bienvenido al mundo,8.6,Comedy
+Finland,La Vie de Bohème,7.6,"Drama, Comedy, Romance"
+France,Human,8.5,Documentary
+United Kingdom,Queen: Live at Wembley Stadium,8.5,Music
+Georgia,And Then We Danced,7.4,"Drama, Romance"
+Greece,Landscape in the Mist,7.6,Drama
+Guatemala,La Llorona,6.5,"Thriller, Horror, Drama"
+Hong Kong,In the Mood for Love,8.1,"Drama, Romance"
+Honduras,Ride On,7.4,"Action, Comedy, Adventure, Drama"
+Hungary,Satantango,8.2,Drama
+Indonesia,Baraka,8.2,Documentary
+Ireland,Wolfwalkers,8.2,"Animation, Family, Adventure, Fantasy"
+Israel,Waltz with Bashir,7.7,"Drama, Animation, War, Documentary"
+India,Taylor Swift: The 1989 World Tour - Live,8.6,"Music, Documentary"
+Iran,Baraka,8.2,Documentary
+Iceland,Metalhead,7.3,"Drama, Music"
+Italy,"The Good, the Bad and the Ugly",8.5,Western
+Jordan,Wadjda,7.2,Drama
+Japan,Spirited Away,8.5,"Animation, Family, Fantasy"
+Kenya,Baraka,8.2,Documentary
+Cambodia,Baraka,8.2,Documentary
+North Korea,Gandahar,7,"Animation, Science Fiction, Fantasy, Adventure"
+South Korea,Break the Silence: The Movie,9.2,"Music, Documentary"
+Kuwait,Baraka,8.2,Documentary
+Kazakhstan,The Legend of Tomiris,7,"History, War, Drama"
+Lebanon,Capernaum,8.2,Drama
+Sri Lanka,Lucky Number Slevin,7.5,"Drama, Thriller, Crime, Mystery"
+Lithuania,Vesper,6.5,"Science Fiction, Drama, Adventure"
+Luxembourg,Wolfwalkers,8.2,"Animation, Family, Adventure, Fantasy"
+Latvia,Blizzard of Souls,7.3,"War, Drama, History"
+Morocco,The Nile Hilton Incident,6.6,"Thriller, Drama, Crime"
+Monaco,Ludwig,7.4,"Drama, History"
+Macedonia,Honeyland,7.9,Documentary
+Mali,Samsara,8.1,Documentary
+Myanmar,Samsara,8.1,Documentary
+Macao,Crash,7.2,Drama
+Mauritania,Timbuktu,6.9,"Drama, War"
+Malta,By the Sea,5.6,"Drama, Romance"
+Mauritius,Jungle Beat: The Movie,7,"Family, Animation, Science Fiction, Comedy"
+Malawi,The Boy Who Harnessed the Wind,7.9,"Drama, History, Family"
+Mexico,Franco Escamilla: por la anécdota,9,Comedy
+Nigeria,Amina,6.4,"War, History, Drama"
+Netherlands,Ennio,8.3,"Documentary, Music"
+Norway,The Act of Killing,7.7,Documentary
+Nepal,Baraka,8.2,Documentary
+New Zealand,Jojo Rabbit,8,"Comedy, War, Drama"
+Peru,Fitzcarraldo,7.6,"Drama, Adventure"
+Philippines,Metro Manila,7.3,"Crime, Thriller, Drama, Action"
+Poland,Baraka,8.2,Documentary
+Pitcairn Island,Case Closed: The Fist of Blue Sapphire,6.2,"Action, Animation, Adventure, Crime, Family, Mystery"
+Puerto Rico,Straight from the Barrio,7.9,"Drama, Action, Crime"
+Palestinian Territory,Omar,7.2,"Thriller, Drama, Romance"
+Portugal,Pelé,7.4,Documentary
+Paraguay,7 Boxes,6.7,"Action, Thriller"
+Qatar,The Wild Pear Tree,7.5,Drama
+Reunion,Diaz - Don't Clean Up This Blood,7.2,"Drama, History"
+Romania,5Gang: A Different Kind of Christmas,8.2,"Action, Comedy"
+Serbia,"Black Cat, White Cat",7.7,"Comedy, Romance, Crime"
+Russia,Fire,8.3,"Action, Drama"
+Saudi Arabia,Baraka,8.2,Documentary
+Sweden,Persona,8.2,Drama
+Singapore,Hotel Mumbai,7.6,"Thriller, History, Drama, Action"
+Slovenia,Ocean's Thirteen,6.7,"Crime, Thriller"
+Senegal,Black Girl,7.5,Drama
+Soviet Union,Come and See,8.3,"Drama, War"
+Thailand,Baraka,8.2,Documentary
+Tunisia,La Promesse,7.2,Drama
+Turkey,Miracle in Cell No. 7,8.3,Drama
+Taiwan,A Brighter Summer Day,8.3,"Crime, Drama, Romance"
+Tanzania,Baraka,8.2,Documentary
+Ukraine,Winter on Fire: Ukraine's Fight for Freedom,8,Documentary
+Uganda,Who Killed Captain Alex?,6.5,"Action, Drama, Comedy"
+United States of America,Nirvana: Unplugged In New York,8.7,"Music, Documentary, TV Movie"
+Uruguay,A Twelve-Year Night,7.4,"Drama, Crime, History"
+Venezuela,From Afar,6.1,Drama
+Vietnam,Top Cat Begins,6.7,"Comedy, Animation, Family"
+Czechoslovakia,The Shop on Main Street,7.9,"Drama, War"
+Yugoslavia,Underground,7.8,"Comedy, Drama, War"
+South Africa,My Octopus Teacher,7.9,Documentary
+Zimbabwe,Snow Buddies,6,"Family, Adventure"
