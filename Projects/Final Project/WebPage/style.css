@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: white;
+    font-family:'Monaco';
+}
+.rounded-button {
+    height: 200px;
+    width: 400px;
+    border-radius: 30px;
+    padding: 10px 20px;
+    background-color: #00d99c;
+    color: black;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    font-family: "Monaco";
+    transition: background-color 0.3s;
+}
+.rounded-button:hover {
+    background-color: red;
+    font-weight:bold;
+}
