@@ -1,0 +1,12 @@
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px ;
+    padding: 10px;
+  }
+body{
+    font-family: 'Jost';
+    font-size: 22px;}
+p{
+    font-size:larger
+}
