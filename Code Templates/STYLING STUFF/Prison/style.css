@@ -1,0 +1,16 @@
+body{
+    background-color: red;
+}
+h1{
+    color:white;
+    font-family: "Bentham";
+    padding-top:5%;
+    padding-bottom: 5%;
+    font-size:50px;
+}
+p{
+    font-weight:1000;
+    font-family: "Cabin";
+    width:49%;
+    padding-left:25%
+}
