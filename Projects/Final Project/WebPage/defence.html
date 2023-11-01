@@ -11,7 +11,21 @@
     <hr>
     <br>
     <h2>Well there are hundreds of pokemon for every type so I decided to use the following code to filter out the bulkiest pokemon for the given type:</h2>
-    <img src="Code.png" alt="Code" width="1500" height="365">
+    <div id="python-code">
+        def strongest_pokemon(type, OffenceOrDefence):
+            filtered_df = df[(df["Type1"] == type) | (df["Type2"] == type)]
+            filtered_df = filtered_df.assign(
+            Preferred_Attack = filtered_df[['Attack', 'Special_Attack']].max(axis=1)
+            )
+            if OffenceOrDefence.lower() == "offence":
+                offence_filter = filtered_df.query("Preferred_Attack >= 110 and Speed >=100")
+                graph = sns.pointplot(data=offence_filter, x="Preferred_Attack", y="Speed", hue="Name")
+                sns.move_legend(graph, "upper left", bbox_to_anchor=(1, 1))
+            if OffenceOrDefence.lower() == "defence":
+                defence_filter = filtered_df.query("Defence >= 110 and Special_Defence >=110")
+                graph = sns.pointplot(data=defence_filter, x="Defence", y="Special_Defence", hue="Name")
+                    sns.move_legend(graph, "upper left", bbox_to_anchor=(1, 1))
+    </div>
     <h2>With the following code we filtered out the bulkiest pokemon for the given type, graphed the relation between their defence and special defence and choose the strongest one for every type by hand:</h2>
     <table>
         <tr>

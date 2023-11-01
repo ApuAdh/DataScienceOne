@@ -3,6 +3,11 @@ body{
     color: white;
     font-family:monospace
 }
+.TypeBody{
+    background-color: white;
+    color:black;
+    font-family:monospace;
+}
 .rounded-button {
     height: 200px;
     width: 400px;
@@ -39,4 +44,11 @@ a{
 }
 a:hover{
     color:aqua;
+}
+#python-code {
+    font-family: monospace;
+    white-space: pre-wrap;
+    background-color: black;
+    padding: 20px;
+    border: 1px solid #ccc;
 }
