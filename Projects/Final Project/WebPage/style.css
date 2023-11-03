@@ -13,8 +13,8 @@ body{
     width: 400px;
     border-radius: 30px;
     padding: 10px 20px;
-    background-color: #00d99c;
-    color: black;
+    background-color: black;
+    color: white;
     font-size: 20px;
     border: none;
     cursor: pointer;
@@ -23,7 +23,8 @@ body{
     font-weight: bold;
 }
 .rounded-button:hover {
-    background-color: red;
+    background-color: white;
+    color:black;
     font-weight:bold;
 }
 table {
