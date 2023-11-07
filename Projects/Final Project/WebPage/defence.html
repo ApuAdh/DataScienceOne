@@ -18,7 +18,7 @@
             Preferred_Attack = filtered_df[['Attack', 'Special_Attack']].max(axis=1)
             )
             if OffenceOrDefence.lower() == "offence":
-                offence_filter = filtered_df.query("Preferred_Attack >= 100 and Speed >=100")
+                offence_filter = filtered_df.query("Preferred_Attack >= 110 and Speed >=110")
                 graph = sns.pointplot(data=offence_filter, x="Preferred_Attack", y="Speed", hue="Name")
                 sns.move_legend(graph, "upper left", bbox_to_anchor=(1, 1))
             if OffenceOrDefence.lower() == "defence":
@@ -41,8 +41,8 @@
             <th>Reshiram</a></th>
             <th><a href="Water.html">Water</a></th>
             <th>Toxapex</a></th>
-            <th>Grass</th>
-            <th>Roserade</a></th>
+            <th><a href="Grass.html">Grass</a></th>
+            <th>Ferrothorn</th>
         </tr>
         <tr>
             <th>Normal</th>
